@@ -806,6 +806,7 @@ a {
 
 .circle-size {
     border-radius: 50%;
+    cursor: pointer;
     justify-content: center;
     align-items: center;
     font-size: 15px;
